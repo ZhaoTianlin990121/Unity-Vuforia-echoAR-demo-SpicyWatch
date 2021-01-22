@@ -35,7 +35,7 @@ Refer to our [documentation](https://docs.echoar.xyz/ar.js/deploy-experience) to
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
-Video available in the [ScreenShots folder](/ScreenShots)\
+Video available in the [ScreenShots folder](/ScreenShots), same with the gif below
 
 ![showcase](/ScreenShots/show-case.gif)
 ![UploadPage](/ScreenShots/EchoAR.jpg)
