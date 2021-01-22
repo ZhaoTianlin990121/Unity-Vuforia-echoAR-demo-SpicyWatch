@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Molido" size="50.000000 45.351044" />
+    <ImageTarget name="Hojas" size="50.000000 55.574326" />
+    <ImageTarget name="Garlic" size="50.000000 51.966293" />
+    <ImageTarget name="Spicy" size="50.000000 50.745033" />
+  </Tracking>
+</QCARConfig>
