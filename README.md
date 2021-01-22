@@ -8,7 +8,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 ## Make Your Wrist Band
 1. Download the images from [Images folder](/Images) and print them out in 30cm x 30cm or 12inch x 12inch squares
 2. Stick them into a wrist band that looks like this 
-![wristband](/ScreenShots/WristBand.jpg)
+![wristband](/ScreenShots/Wrist-Band.jpg)
 
 ## Setup & Run
 1. Clone this repo, open Unity Hub, add project Unity-Vuforia-echoAR-demo-SpicyWatch
