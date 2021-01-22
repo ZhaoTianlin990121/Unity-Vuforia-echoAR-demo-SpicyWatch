@@ -37,5 +37,5 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ## Screenshots
 Video available in the [ScreenShots folder](/ScreenShots)
 
-![showcase](/ScreenShots/show-case.gif)
+/n![showcase](/ScreenShots/show-case.gif)
 ![UploadPage](/ScreenShots/EchoAR.jpg)
